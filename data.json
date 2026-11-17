@@ -1,0 +1,23 @@
+{
+ "services": [
+  ["Finance & Budget","Cost cuts, cash protection, store-by-store profit reports and a monthly dashboard."],
+  ["People & Pay","Commission and incentive design, training, staffing and morale."],
+  ["Stock & Logistics","Stock counts, moving stock toward demand, delivery plans and freight costs."],
+  ["Sales & Marketing","Better sales measures, customer tracking, a marketing plan for each location and a modern website."],
+  ["Research & Development","Competitor checks, customer surveys and a step-by-step recovery roadmap."],
+  ["Quality Assurance","Every figure checked, store tracking and weekly board reports."]],
+ "team": [
+  ["Kaue Caires","Finance & Budget Allocation"],["Haruka Takamiya","Human Relations & Incentive Design"],
+  ["Christopher Guerrero","Logistics & Warehouse Redistribution"],["Bán Bercel","Sales & Targeted Marketing"],
+  ["Unisha Koirala","Research & Development Roadmap"],["Jawad Jumani","Quality Assurance & Metric Verification"]],
+ "stores": [
+  {"name":"South Houston","sales":26500,"profit":19000,"sqft":4250},{"name":"West Houston","sales":21300,"profit":16086,"sqft":2550},
+  {"name":"North Houston","sales":12050,"profit":9231,"sqft":4100},{"name":"East (warehouse)","sales":39500,"profit":8435,"sqft":11000},
+  {"name":"Beaumont","sales":13250,"profit":7248,"sqft":5000}],
+ "budget": [
+  {"area":"Advertising","amount":45000},{"area":"Commission and incentive pilot","amount":30000},
+  {"area":"Website and financing page","amount":20000},{"area":"Training","amount":15000},
+  {"area":"Inventory and logistics","amount":15000},{"area":"Restructuring costs","amount":15000},{"area":"Reserve","amount":10000}],
+ "roadmap": [["Month 1","Rival review done; website and ads live."],["Month 3","Pilot fixes run; commission pilot ends."],
+  ["Month 6","Review results; profit above $40,000."],["Month 12","Profit back to $60,000."]]
+}
